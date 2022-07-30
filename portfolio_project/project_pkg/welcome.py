@@ -1,0 +1,11 @@
+def welcome():
+    print(" ")
+    print(" ")
+    print("Welcome to Jayden Kellar's random adventure generator!")
+    print(" ")
+    print("This program works best with a full screen terminal.")
+    print(" ")
+    input("press enter to start the adventure...")
+    print(" ")
+    print(" ")
+    print(" ")
